@@ -175,6 +175,77 @@ Create a new account → Login → Start adding entries
 
 ---
 
+# 📸 Screenshots
+
+## Splash Screen
+<p align="center">
+  <img src="screenshots/splashscreen.png" width="250"/>
+</p>
+
+---
+
+## Login Screen
+<p align="center">
+  <img src="screenshots/loginscreen.png" width="250"/>
+</p>
+
+---
+
+## Create Account Screen
+<p align="center">
+  <img src="screenshots/createaccountscreen.png" width="250"/>
+</p>
+
+---
+
+## Dashboard Screen
+<p align="center">
+  <img src="screenshots/dashboardscreen.png" width="250"/>
+</p>
+
+---
+
+## Customer List Screen
+<p align="center">
+  <img src="screenshots/customerslistscreen.png" width="250"/>
+</p>
+
+---
+
+## Customer Detail Screen
+<p align="center">
+  <img src="screenshots/customerdetailscreen.png" width="250"/>
+</p>
+
+---
+
+## Daily Summary Screen
+<p align="center">
+  <img src="screenshots/dailysummary.png" width="250"/>
+</p>
+
+---
+
+## Quick Entry Screen 1
+<p align="center">
+  <img src="screenshots/quickentry1.png" width="250"/>
+</p>
+
+---
+
+## Quick Entry Screen 2
+<p align="center">
+  <img src="screenshots/quickentry2.png" width="250"/>
+</p>
+
+---
+
+## WhatsApp Reminder Screen
+<p align="center">
+  <img src="screenshots/whatsappreminder.png" width="250"/>
+</p>
+
+
 # 🔮 **Future Improvements**
 
 * Cloud sync and backup
